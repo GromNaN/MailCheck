@@ -3,7 +3,7 @@
 class MailCheck
 {
     protected $domains;
-    protected $tld;
+    protected $topDomains;
     protected $distanceFunction;
     protected $minDistance;
 
